@@ -1,0 +1,10 @@
+Martin, 0
+Claudiu, 0
+Daniel, 0
+Michael, 1
+Hugo, 1
+Klaus, 2
+Pedro, 2
+Andreea, 1
+Manuel, 1
+Eric, 2
